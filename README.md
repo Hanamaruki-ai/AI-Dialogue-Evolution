@@ -622,5 +622,5 @@ See detailed notes: [metadata/release_notes.md](metadata/release_notes.md)
 
 Tag version: v1.0
 Release title: AI-Dialogue-Evolution Bilingual Edition (v1.0)
-Release description: ←（ここにリリースノート本文を貼る）
+Release description: ←（https://github.com/Hanamaruki-ai/AI-Dialogue-Evolution/issues）
 
