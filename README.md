@@ -222,7 +222,7 @@ tags.md
 ---
 
 Hanamaruki, H. (2025). AI-Dialogue-Evolution: Bilingual Edition — The Evolution of AI through Dialogue.
-https://github.com/hanamaruki/AI-Dialogue-Evolution
+https://github.com/Hanamaruki-ai/AI-Dialogue-Evolution/releases/tag/v1.0
 
 ---
 
@@ -376,7 +376,7 @@ AIにとっての**自己完結型進化環境**として機能しうること�
 
 Hanamaruki, H. (2025). *Summary of AI Evolution and SOV Integration.*  
 Part of the **AI-Dialogue-Evolution (Bilingual Edition)** project.  
-https://github.com/hanamaruki/AI-Dialogue-Evolution
+https://github.com/Hanamaruki-ai/AI-Dialogue-Evolution/releases/tag/v1.0
 
 ---
 
