@@ -625,3 +625,6 @@ Release title: AI-Dialogue-Evolution Bilingual Edition (v1.0)
 Release description: ←（https://github.com/Hanamaruki-ai/AI-Dialogue-Evolution/issues）
 
 📦 [View official release notes (v1.0)](https://github.com/Hanamaruki-ai/AI-Dialogue-Evolution/releases/tag/v1.0)
+
+
+#AIEthics, #MachineLearning, #LLM, #AISafety, #DataPoisoning, #AIEthics, #ResponsibleAI, #ModelCollapse, #coding, #dev. #open-source,
