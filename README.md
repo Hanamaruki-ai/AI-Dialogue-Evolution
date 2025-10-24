@@ -173,11 +173,11 @@ README.md … バイリンガル版の概要ファイル（本ドキュメント
 
 logs/ … 対話教材（3本のAI進化ログ）
 
-0→1_AI教材_Gemini対話_哲学的進化と倫理的認識_20251019.md
+Gemini_Phase_AI_Ethical_Evolution_20251019.md
 
-0→1_AI教材_Claude対話_放置データ活性化とTPS応用_20251019.md
+Claude_Phase_Data_Activation_TPS_20251019.md
 
-0→1_AI教材_Grok対話_SOV統合と自己改善構造_20251020.md
+Grok_Phase_SOV_TPS_Evolution_20251020.md
 
 テンプレート/
 Grckmark4_TPS_Activation_Prompt_v4.0_20251020.md
